@@ -1,0 +1,12 @@
+chalice
+matplotlib
+sklearn
+numpy
+scipy
+pandas
+flask
+flask_restful
+tensorflow_hub
+tensorflow
+nltk
+tensorflow_text
